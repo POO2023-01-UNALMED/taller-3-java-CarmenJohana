@@ -90,7 +90,7 @@ public class TV {
 					this.volumen--; } } public boolean getEstado() { return estado;
 	}
 
-	public static int totalTelevisoresCreados() {
+	public static int getNumTV() {
 		return numTv;
 	}
 
