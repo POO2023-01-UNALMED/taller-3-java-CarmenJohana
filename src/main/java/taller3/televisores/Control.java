@@ -7,7 +7,7 @@ public class Control {
 
 	public TV getTv() {
 
-		return tv;
+		return this.tv;
 
 	}
 
